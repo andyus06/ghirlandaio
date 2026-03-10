@@ -23,7 +23,7 @@ Pada buku **Homo Deus: Masa Depan Umat Manusia** karya **Yuval Noah Harari**, di
 Oleh karena itu, pembahasan mengenai hubungan antara sains dan agama menjadi penting untuk memahami bagaimana keduanya dapat saling berinteraksi dalam kehidupan manusia. Makalah ini akan membahas secara singkat bagaimana sains dan agama berkembang, serta bagaimana keduanya memengaruhi cara manusia memahami realitas dan masa depan peradaban.
 
 ## 1.1 Latar Belakang
-Sains dan agama merupakan duanhal yang sangat berpengaruh dalam kehidupan manusia. Sains membantu manusia dalam memahami dunia melalui penelitian, eksperimen dan pemikiran logis. Sedangkan agama memberikan pedoman hidup, nilai moral dan keyakinan tentang makna kehidupan. Meskipun memiliki tujuan yang sama untuk membantu manusia memahami kehidupan, dalam sejarahnya sains dan agama sering dianggap bertentangan.
+Sains dan agama merupakan dua hal yang sangat berpengaruh dalam kehidupan manusia. Sains membantu manusia dalam memahami dunia melalui penelitian, eksperimen dan pemikiran logis. Sedangkan agama memberikan pedoman hidup, nilai moral dan keyakinan tentang makna kehidupan. Meskipun memiliki tujuan yang sama untuk membantu manusia memahami kehidupan, dalam sejarahnya sains dan agama sering dianggap bertentangan.
 
 Sejak zaman yunani hingga zaman modern, hubungan antara sains dan agamai mengalami berbagai perubahan. Pada beberapa masa, keduanys dapat berjalan secara berdampingan dan saling mendukung. Namun pada masa tertentu juga muncul konflik karena perbedaan cara pandang dan metode dalam memahami suaru kebenaran. 
 
@@ -95,7 +95,7 @@ Dalam buku juga memberikan beberapa ilustrasi cerita seperti:
 
 Karena metode yang dipakai berbeda dapat menyebabkan munculnya konflik. Sains menjelaskannya secara objektik berdasarkan fakta alam, sementara agama lebih sering memberi pedoman moral dan makna hidup.
 
-Intinya, dalam buku tersebut menunjukkan bahwa sepanjang sejarah, berbagai masyarakat menggunakan keyakinan tentang hukum alam atau moral yang lebih tinggi untuk membenarkan aturan, tindakan, dan nilai yang mereka anut, meskipun isi dan penafsirannya berbeda-beda.
+Jadi di dalam buku tersebut menunjukkan bahwa sepanjang sejarah, berbagai masyarakat menggunakan keyakinan tentang hukum alam atau moral yang lebih tinggi untuk membenarkan aturan, tindakan, dan nilai yang mereka anut, meskipun isi dan penafsirannya berbeda-beda.
 
 **2.4 ⁠Berikan anlisa medalam dari konflik tersebut.**
 
